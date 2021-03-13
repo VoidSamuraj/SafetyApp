@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BezpiecznaJazda</string>
+    <string name="opcjeprzycisk">Zapisz</string>
+    <string name="opcjewiadomosc">Numer teleonu do powiadomienia</string>
+    <string name="settings">Ustawienia</string>
+    <string name="start">Aktywuj</string>
+    <string name="stop">Stop</string>
+    <string name="komunikat">Wykryto zdarzenie możliwej kolizji, za kilka sekund zosanie wysłana wiadomość. Czy to fałszywy alarm?</string>
+    <string name="komunikatm">UWAGA!</string>
+    <string name="anuluj">Anuluj</string>
+    <string name="wartosci">Wrażliwość czujnika</string>
+    <string name="opiswartosci">(im mniejsza to wrażliwsza)</string>
+    <string name="menukomunikat1">Aplikacja wyśle powiadomienie gdy urządzenie zmieni stopień nachylenia</string>
+    <string name="menukomunikat2">(Przed pierwszym uruchomieniem zmień numer na który zostanie wysłane powiadomienie oraz przetestuj działanie, gdyż aplikacja może jeszcze nie posiadać niezbędnych uprawnień)</string>
+
+
+</resources>
